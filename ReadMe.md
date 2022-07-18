@@ -1,3 +1,8 @@
+This is a refactored solution for the original solution hosted [here].(https://github.com/geektrust/family-java-bad-code) 
+Both solutions are coding solutions for the Family problem hosted by Geektrust.
+Please check the file Geektrust-Problems1.pdf in this repo.
+
+This problem has now been retired. We do not evaluate this solution if you submit it. Please do not submit a coding solution to this. A refactored better solution for this code is available [here](https://github.com/geektrust/family-java-good-code)
 
 # Pre-requisites
 * Java 1.8/1.11/1.15
