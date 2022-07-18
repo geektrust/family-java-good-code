@@ -1,4 +1,4 @@
-This is a refactored solution for the original solution hosted [here].(https://github.com/geektrust/family-java-bad-code) 
+This is a refactored solution for the original solution hosted [here](https://github.com/geektrust/family-java-bad-code).
 Both solutions are coding solutions for the Family problem hosted by Geektrust.
 Please check the file Geektrust-Problems1.pdf in this repo.
 
